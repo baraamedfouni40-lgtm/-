@@ -1,0 +1,6 @@
+{
+  "name": "بطلات الساحة - لعبة المطاردة الخارقة",
+  "description": "لعبة آركيد ملحمية وسريعة: العبي ببطلات خارقات ذوات قوى مذهلة لمطاردة الخصوم وإخافتهم وإخلائهم من الساحة قبل انتهاء الوقت!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
